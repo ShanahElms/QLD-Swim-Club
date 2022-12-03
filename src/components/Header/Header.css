@@ -1,6 +1,6 @@
 .header{
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)), url("../../assets/images/header-bg.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)), url("../../assets/images/header_bg.jpg") center/cover no-repeat;
     justify-content: stretch;
 }
 .header > .container{

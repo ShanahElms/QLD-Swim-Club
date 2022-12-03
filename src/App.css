@@ -17,9 +17,9 @@ html{
     font-size: 10px;
 }
 body{
-    font-size: 1rem;
+    font-size: 1.6rem;
     scroll-behavior: smooth;
-    line-height: 1.5;
+    line-height: 1.7;
     font-family: 'Hind Siliguri', sans-serif;
 }
 ul{
@@ -41,15 +41,15 @@ img{
 }
 a{
     text-decoration: none;
-    color: var(--black);
+    color: unset;
 }
 .container{
-    max-width: 1320px;
+    max-width: 1200px;
     margin: 0 auto;
-    padding: 0 1rem;
+    padding: 0 2rem;
 }
 .section-p{
-    padding: 6.5rem 0;
+    padding: 10rem 0;
 }
 .flex{
     display: flex;
@@ -72,7 +72,7 @@ a{
     line-height: 1.7;
     font-weight: 500;
     opacity: 0.9;
-    font-size: 1.1rem;
+    font-size: 1.6rem;
 }
 
 .text-center{
@@ -187,8 +187,6 @@ a{
     text-transform: capitalize;
     letter-spacing: 3px;
 }
-
-/* #### Media Queries #### */
 
 @media screen and (min-width: 768px){
     .section-title h3{

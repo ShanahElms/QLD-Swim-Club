@@ -1,0 +1,22 @@
+.aboutus-list{
+    row-gap: 2rem;
+}
+.aboutus-item{
+    padding: 2.4rem;
+}
+.aboutus-item-img{
+    margin-bottom: 0.8rem;
+}
+.aboutus-item-img img{
+    width: 80px;
+}
+.aboutus-item-text .text{
+    max-width: 460px;
+}
+
+@media screen and (min-width: 768px) {
+    .aboutus-list{
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 2rem;
+    }
+}
