@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.43c1ec33.css",
-    "main.js": "/static/js/main.846790a2.js",
-    "static/media/header_bg.jpg": "/static/media/header_bg.17d74b31344472ed0974.jpg",
-    "static/media/video.mp4": "/static/media/video.461a42a6d6f49fd79d18.mp4",
-    "static/media/championshipresults_img_00.jpg": "/static/media/championshipresults_img_00.54a90203efb63645e5cf.jpg",
-    "static/media/ourchampions_img_4.jpg": "/static/media/ourchampions_img_4.5d71ae0e1bc63ec350b4.jpg",
-    "static/media/ourchampions_img_3.jpg": "/static/media/ourchampions_img_3.e5c5b9b290e2363019b8.jpg",
-    "static/media/ourchampions_img_1.jpg": "/static/media/ourchampions_img_1.4e406afeedd144e6407f.jpg",
-    "static/media/ourchampions_img_2.jpg": "/static/media/ourchampions_img_2.84b8ce71598b829fd1a4.jpg",
-    "index.html": "/index.html",
-    "main.43c1ec33.css.map": "/static/css/main.43c1ec33.css.map",
-    "main.846790a2.js.map": "/static/js/main.846790a2.js.map"
+    "main.css": "/qld-swim-club/static/css/main.231c052b.css",
+    "main.js": "/qld-swim-club/static/js/main.3ae07d5d.js",
+    "static/media/header_bg.jpg": "/qld-swim-club/static/media/header_bg.17d74b31344472ed0974.jpg",
+    "static/media/video.mp4": "/qld-swim-club/static/media/video.461a42a6d6f49fd79d18.mp4",
+    "static/media/championshipresults_img_00.jpg": "/qld-swim-club/static/media/championshipresults_img_00.54a90203efb63645e5cf.jpg",
+    "static/media/ourchampions_img_4.jpg": "/qld-swim-club/static/media/ourchampions_img_4.5d71ae0e1bc63ec350b4.jpg",
+    "static/media/ourchampions_img_3.jpg": "/qld-swim-club/static/media/ourchampions_img_3.e5c5b9b290e2363019b8.jpg",
+    "static/media/ourchampions_img_1.jpg": "/qld-swim-club/static/media/ourchampions_img_1.4e406afeedd144e6407f.jpg",
+    "static/media/ourchampions_img_2.jpg": "/qld-swim-club/static/media/ourchampions_img_2.84b8ce71598b829fd1a4.jpg",
+    "index.html": "/qld-swim-club/index.html",
+    "main.231c052b.css.map": "/qld-swim-club/static/css/main.231c052b.css.map",
+    "main.3ae07d5d.js.map": "/qld-swim-club/static/js/main.3ae07d5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.43c1ec33.css",
-    "static/js/main.846790a2.js"
+    "static/css/main.231c052b.css",
+    "static/js/main.3ae07d5d.js"
   ]
 }
