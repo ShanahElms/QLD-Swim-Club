@@ -49,28 +49,55 @@ const eventinformation = [
     },
 ];
 
-const championshipresults = [
+const championshipresults_stats = [
     {
-        image: `${images.championshipresults_img_1}`,
+        image: `${images.stat_img_1}`,
         value: "58",
         title: "Gold Medals"
     },
     {
-        image: `${images.championshipresults_img_2}`,
+        image: `${images.stat_img_2}`,
         value: "163",
         title: "Silver Medals"
     },
     {
-        image: `${images.championshipresults_img_3}`,
+        image: `${images.stat_img_3}`,
         value: "583",
         title: "Bronze Medals"
     },
     {
-        image: `${images.championshipresults_img_4}`,
-        value: "287",
+        image: `${images.stat_img_4}`,
+        value: "982",
         title: "Total Wins"
     },
 ];
 
+const tabledata = [
+    {
+        race: "Men's 100 Freestyle",
+        gold: "Joseph Brand",
+        silver: "Caelan Locke",
+        bronze: "George Hutchins"
+    },
+    {
+        race: "Men's 100 Backstroke",
+        gold: "Elias Mute",
+        silver: "Kennedy Jones",
+        bronze: "Luke Rosenthal"
+    },
+    {
+        race: "Women's 100 Freestyle",
+        gold: "Ella Peterson",
+        silver: "Kiah Hallow",
+        bronze: "Fiona Roden"
+    },
+    {
+        race: "Women's 100 Backstroke",
+        gold: "Emily Darragh",
+        silver: "Sarah Lee",
+        bronze: "Jessica Wu"
+    },
+];
 
-export {aboutus, ourchampions, eventinformation, championshipresults};
+
+export {aboutus, ourchampions, eventinformation, championshipresults_stats, tabledata};

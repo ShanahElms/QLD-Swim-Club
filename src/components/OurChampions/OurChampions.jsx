@@ -14,7 +14,7 @@ const OurChampions = () => {
     }
 
   return (
-    <div className='ourchampions section-p bg-grey' id = "ourchampions">
+    <div className='ourchampions section-p bg-bubbles' id = "ourchampions">
         <div className={imageModal ? "image-box show-image-box" : "image-box"}>
             <div className='image-box-content'>
                 <img src = {imageSource} alt="" />

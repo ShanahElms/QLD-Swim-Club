@@ -1,0 +1,27 @@
+.contactus-form{
+    max-width: 460px;
+}
+.contactus-form .form-control{
+    width: 100%;
+    background-color: transparent;
+    border: 1px solid var(--night-rider);
+    border-radius: 35px;
+    min-height: 66px;
+    font-size: 22px;
+    padding: 0 3rem;
+    line-height: 66px;
+    margin-bottom: 2.6rem;
+    outline: none;
+    font-family: inherit;
+    font-weight: 200;
+}
+.contactus-form textarea.form-control{
+    resize: none;
+}
+.contactus-form .submit-btn{
+    width: 100%;
+    height: 66px;
+    border-radius: 35px;
+    border: 2px solid var(--celadon-blue);
+    transition: var(--transition);
+}
