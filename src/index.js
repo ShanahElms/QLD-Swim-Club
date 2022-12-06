@@ -9,9 +9,9 @@ import {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/qld-swim-club">
     <Routes>
-      <Route path = "/web_app" element = {<App />}></Route>
+      <Route path = "/" element = {<App />}></Route>
     </Routes>
   </BrowserRouter>
 );
