@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter basename="/test_repository">
     <Routes>
-      <Route exact path = "/web_app" component = {App} /></Route>
+      <Route exact path = "/web_app" component = {App} />
     </Routes>
   </BrowserRouter>
 );
