@@ -9,9 +9,9 @@ import {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <BrowserRouter basename="/test_repository">
     <Routes>
-      <Route exact path = "/web_app" element = {<App />}></Route>
+      <Route exact path = "/web_app" component = {App} /></Route>
     </Routes>
   </BrowserRouter>
 );
