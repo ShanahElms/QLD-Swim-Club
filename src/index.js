@@ -2,16 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import {
-  Router,
+  BrowserRouter,
   Routes,
   Route
 } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Router basename="/test_repository">
+  <BrowserRouter>
     <Routes>
-      <Route exact path = "/web_app" component = {App} />
+      <Route path = "/web_app" element = {<App />}></Route>
     </Routes>
-  </Router>
+  </BrowserRouter>
 );
