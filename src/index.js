@@ -9,9 +9,9 @@ import {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Routes>
-      <Route path = "/web-app" element = {<App />}></Route>
+      <Route exact path = "/web_app" element = {<App />}></Route>
     </Routes>
   </BrowserRouter>
 );
